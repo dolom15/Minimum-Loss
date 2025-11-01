@@ -1,1 +1,1 @@
-# Minimum-Loss
+# Minimum-Loss This C# program calculates the **minimum possible financial loss** when buying and later selling a house, ensuring the purchase happens **before the sale** in the list. It sorts prices in descending order, compares adjacent pairs, and finds the smallest positive difference where the buy occurs earlier than the sell.
